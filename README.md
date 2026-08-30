@@ -6,4 +6,4 @@
 
 ## Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)] [(https://linkedin.com/in/barbara-oliveira-av/)
-](https://www.linkedin.com/in/barbara-oliveira-av/)
+]
